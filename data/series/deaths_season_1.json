@@ -1,0 +1,312 @@
+[
+
+    {
+        "id": 1,
+        "name": "Waymar Royce",
+        "time": "5:52",
+        "link": "http://gameofthrones.wikia.com/wiki/Waymar_Royce",
+        "killedBy": "Killed by White Walker",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Gared",
+        "time": "6:58",
+        "link": "http://gameofthrones.wikia.com/wiki/Gared",
+        "killedBy": "Killed by White Walker",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Will",
+        "time": "13:44",
+        "link": "http://gameofthrones.wikia.com/wiki/Will",
+        "killedBy": "Executed by Ned Stark",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 1
+    },
+    {
+        "id": 4,
+        "name": "Jon Arryn",
+        "time": "18:34",
+        "link": "http://gameofthrones.wikia.com/wiki/Jon_Arryn",
+        "killedBy": "Poisoned by Lysa",
+        "house": "Arryn",
+        "status": null,
+        "importance": 1,
+        "episode_id": 1
+    },
+    {
+        "id": 5,
+        "name": "Assassin",
+        "time": "31:27",
+        "link": "http://gameofthrones.wikia.com/wiki/Catspaw_assassin",
+        "killedBy": "Killed by Bran's Wolf",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 2
+    },
+    {
+        "id": 6,
+        "name": "Mycah",
+        "time": "4:37",
+        "link": "http://gameofthrones.wikia.com/wiki/Mycah",
+        "killedBy": "Killed by the Hound",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 2
+    },
+    {
+        "id": 7,
+        "name": "Ser Hugh",
+        "time": "47:41",
+        "link": "http://gameofthrones.wikia.com/wiki/Hugh",
+        "killedBy": "Killed by the Mountain",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 4
+    },
+    {
+        "id": 8,
+        "name": "Kurleket",
+        "time": "11:56",
+        "link": "http://gameofthrones.wikia.com/wiki/Kurleket",
+        "killedBy": "Killed by hill tribesmen",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 5
+    },
+    {
+        "id": 9,
+        "name": "Willis Wode",
+        "time": "12:31",
+        "link": "http://gameofthrones.wikia.com/wiki/Willis_Wode",
+        "killedBy": "Killed by hill tribesmen",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 5
+    },
+    {
+        "id": 10,
+        "name": "Wyl",
+        "time": "51:14",
+        "link": "http://gameofthrones.wikia.com/wiki/Wyl_(House_Stark)",
+        "killedBy": "Killed by Lannister guardsmen",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 5
+    },
+    {
+        "id": 11,
+        "name": "Heward",
+        "time": "51:14",
+        "link": "http://gameofthrones.wikia.com/wiki/Heward",
+        "killedBy": "Killed by Lannister guardsmen",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 5
+    },
+    {
+        "id": 12,
+        "name": "Jory Cassel",
+        "time": "51:30",
+        "link": "http://gameofthrones.wikia.com/wiki/Jory_Cassel",
+        "killedBy": "Killed by Jamie Lannister",
+        "house": null,
+        "status": null,
+        "importance": 2,
+        "episode_id": 5
+    },
+    {
+        "id": 13,
+        "name": "Wallen",
+        "time": "11:23",
+        "link": "http://gameofthrones.wikia.com/wiki/Wallen",
+        "killedBy": "Killed by Rob Stark",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 6
+    },
+    {
+        "id": 14,
+        "name": "Stiv",
+        "time": "12:05",
+        "link": "http://gameofthrones.wikia.com/wiki/Stiv",
+        "killedBy": "Kill by Theon Greyjoy",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 6
+    },
+    {
+        "id": 15,
+        "name": "Vardis Egen",
+        "time": "38:19",
+        "link": "http://gameofthrones.wikia.com/wiki/Vardis_Egen",
+        "killedBy": "Killed by Bronn",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 6
+    },
+    {
+        "id": 16,
+        "name": "Viserys Targaryen ",
+        "time": "51:04",
+        "link": "http://gameofthrones.wikia.com/wiki/Viserys_Targaryen",
+        "killedBy": "Killed by Khal Drogo",
+        "house": "Targaryen",
+        "status": null,
+        "importance": 3,
+        "episode_id": 6
+    },
+    {
+        "id": 17,
+        "name": "Wine seller",
+        "time": "51:53",
+        "link": "http://gameofthrones.wikia.com/wiki/Wineseller",
+        "killedBy": "Dragged behind a Horse",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 7
+    },
+    {
+        "id": 18,
+        "name": "Robert Baratheon",
+        "time": "52:09",
+        "link": "http://gameofthrones.wikia.com/wiki/Robert_Baratheon",
+        "killedBy": "Killed by a boar",
+        "house": "Baratheon",
+        "status": null,
+        "importance": 3,
+        "episode_id": 7
+    },
+    {
+        "id": 19,
+        "name": "Vayon Poole",
+        "time": "2:25",
+        "link": "http://gameofthrones.wikia.com/wiki/Vayon_Poole",
+        "killedBy": "Killed by House Lannister men",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 8
+    },
+    {
+        "id": 20,
+        "name": "Mordane",
+        "time": "3:12",
+        "link": "http://gameofthrones.wikia.com/wiki/Mordane",
+        "killedBy": "Killed by House Lannister men",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 8
+    },
+    {
+        "id": 21,
+        "name": "Syrio Forel",
+        "time": "5:46",
+        "link": "http://gameofthrones.wikia.com/wiki/Syrio_Forel",
+        "killedBy": "Killed by House Lannister men",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 8
+    },
+    {
+        "id": 22,
+        "name": "Stableboy",
+        "time": "7:02",
+        "link": "http://gameofthrones.wikia.com/wiki/Stableboy",
+        "killedBy": "Killed by Arya",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 8
+    },
+    {
+        "id": 23,
+        "name": "Mago",
+        "time": "30:52",
+        "link": "http://gameofthrones.wikia.com/wiki/Mago",
+        "killedBy": "Killed by Khal Drogo",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 8
+    },
+    {
+        "id": 24,
+        "name": "Othor",
+        "time": "25:58",
+        "link": "http://gameofthrones.wikia.com/wiki/Othor",
+        "killedBy": "Burned by Jon Snow",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 8
+    },
+    {
+        "id": 25,
+        "name": "Qotho",
+        "time": "34:02",
+        "link": "http://gameofthrones.wikia.com/wiki/Qotho",
+        "killedBy": "Killed by Jorah Mormont",
+        "house": null,
+        "status": null,
+        "importance": 2,
+        "episode_id": 9
+    },
+    {
+        "id": 26,
+        "name": "Eddard Stark",
+        "time": "54:56",
+        "link": "http://gameofthrones.wikia.com/wiki/Eddard_Stark",
+        "killedBy": "Executed by Ilyn Payne",
+        "house": "Stark",
+        "status": null,
+        "importance": 3,
+        "episode_id": 9
+    },
+    {
+        "id": 27,
+        "name": "Khal Drogo",
+        "time": "33:39",
+        "link": "http://gameofthrones.wikia.com/wiki/Khal_Drogo",
+        "killedBy": "Smothered by Daenerys",
+        "house": null,
+        "status": null,
+        "importance": 3,
+        "episode_id": 10
+    },
+    {
+        "id": 28,
+        "name": "Mirri Maz Duur",
+        "time": "48:12",
+        "link": "http://gameofthrones.wikia.com/wiki/Mirri_Maz_Duur",
+        "killedBy": "Burned alive by by Daenerys",
+        "house": null,
+        "status": null,
+        "importance": 1,
+        "episode_id": 10
+    }
+
+]
